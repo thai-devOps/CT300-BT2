@@ -1,9 +1,10 @@
 // write a program to print hello world
 
-#include<stdio.h>
+#include <stdio.h>
 
 int main()
 {
-    printf("Hello World\n");
+    printf("Hello World");
+    printf("\n");
     return 0;
 }
