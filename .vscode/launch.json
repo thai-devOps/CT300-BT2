@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/HK1_NAM4/CT300-03-LAB1-BAI2",
-      "program": "d:/HK1_NAM4/CT300-03-LAB1-BAI2/build/Debug/outDebug",
+      "cwd": "d:/HK1_NAM4/CT300-03-BT4/CT300-BT2",
+      "program": "d:/HK1_NAM4/CT300-03-BT4/CT300-BT2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
